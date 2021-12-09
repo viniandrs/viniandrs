@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 👤 Vinicius, aka Vini 
 
 I'm interested in:
