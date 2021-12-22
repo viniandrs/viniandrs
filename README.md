@@ -6,6 +6,7 @@ I'm interested in:
 - Embedded systems 🤖
 - High Energy Physics simulations ⚛️
 - Experimental data analysis 📈
+- WebDev :computer:
 
 🔭 I’m currently working on Geant4 simulations for DUNE Experiment.
 
