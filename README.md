@@ -3,14 +3,14 @@
 👤 Vinicius, aka Vini 
 
 I'm interested in:
-- Embedded systems 🤖
 - High Energy Physics simulations ⚛️
 - Experimental data analysis 📈
-- WebDev :computer:
+- Machine learning & computational intelligence 🤖
+- Computer vision & digital image processing 👁️
 
 🔭 I’m currently working on Geant4 simulations for DUNE Experiment.
 
 ⚡ Fun fact: ...
 
 📫 How to reach me:
-v195125@dac.unicamp.br
+viniciusandreossi@gmail.com
