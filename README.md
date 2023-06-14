@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-👤 Vinicius, aka Vini 
+👤 Vinicius, aka Malfoi 
 
 I'm interested in:
-- High Energy Physics simulations ⚛️
-- Experimental data analysis 📈
 - Machine learning & computational intelligence 🤖
-- Computer vision & digital image processing 👁️
+- CG & DIP 👁️
 
-🔭 I’m currently working on Geant4 simulations for DUNE Experiment.
+🔭 I’m currently working on self-supervised learning experiments for dimensionality reduction.
 
 ⚡ Fun fact: ...
 
