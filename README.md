@@ -1,5 +1,5 @@
 <div align="center">
-<img height="100" alt="Welcome to my GitHub profile" src="https://raw.githubusercontent.com/viniandrs/viniandrs/main/images/hello.png" />
+<img height="300" alt="Welcome to my GitHub profile" src="https://raw.githubusercontent.com/viniandrs/viniandrs/main/images/hello.png" />
 </div>
 
 <h2> I'm Vinicius Andreossi! </h2> 
@@ -19,17 +19,14 @@
 <img src="https://media2.giphy.com/media/tHJ43p08AIIqVvn33A/giphy.gif?cid=ecf05e473cvsk5km06zk0wp9ers9xd4ub0covbgrdjosxl5y&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100">
 </div>
 
-### A little more about me...  
-
-```python
-def who_i_am():
-    print("still figuring it out")
-```
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/viniandrs/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
 ---
-
-https://github.com/Thaiane
-https://github.com/BrunnerLivio
