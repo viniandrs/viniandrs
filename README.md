@@ -1,5 +1,5 @@
 <div align="center">
-<img height="100" alt="My Name is Livio and I like Node.js" src="images/welcome.png" />
+<img height="100" alt="Welcome to my GitHub profile" src="https://raw.githubusercontent.com/viniandrs/viniandrs/main/images/hello.png" />
 </div>
 
 <h2> I'm Vinicius Andreossi! </h2> 
