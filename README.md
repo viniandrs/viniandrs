@@ -2,7 +2,7 @@
 <img height="300" alt="Welcome to my GitHub profile" src="https://raw.githubusercontent.com/viniandrs/viniandrs/main/images/hello.png" />
 </div>
 
-<h2 align="center"> I'm Vinicius Andreossi and I love AI 🤖 </h2> 
+<h2 align="center"> I'm Vinicius Andreossi and I like AI 🤖 </h2> 
 <p>
     <em>
         <ul>
