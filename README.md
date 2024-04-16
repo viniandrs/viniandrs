@@ -7,8 +7,8 @@
     <em>
         <ul>
         <li>Computer engineering undergraduate at <a href="https://www.unicamp.br/unicamp/">UNICAMP</a><img src="https://media3.giphy.com/media/CBvjuhJncUt6U/giphy.gif?cid=ecf05e47rur6kim12yid8k63jrhn36lltnmeoovsiq9e7wbx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"> </li>
-        <li>Currently doing AI research at <a href="https://hiaac.unicamp.br/">H.IAAC</a> <img src="https://media2.giphy.com/media/q4RahsFvkpVKw/giphy.gif?cid=ecf05e479t0nbshatcfyy4k8s8ic9jiguahc36nip7kz5of2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"></li>
-        <li>Past experience with particle physics simulations on <a href="https://geant4.web.cern.ch/">Geant4</a> <img src="https://media4.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif?cid=ecf05e47vrigulqbjjo899ej0k00pgx0eh0yovol0dpl5yrr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"></p></li>
+        <li>Currently working with reinforcement learning at <a href="https://www.eldorado.org.br/en/">Eldorado Research Institute</a> <img src="https://media2.giphy.com/media/q4RahsFvkpVKw/giphy.gif?cid=ecf05e479t0nbshatcfyy4k8s8ic9jiguahc36nip7kz5of2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"></li>
+        <li>Past experience with particle physics simulations and self-supervised learning <img src="https://media4.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif?cid=ecf05e47vrigulqbjjo899ej0k00pgx0eh0yovol0dpl5yrr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"></p></li>
         </ul>
     </em>
 </p>
