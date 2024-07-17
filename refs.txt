@@ -1,0 +1,8 @@
+README file was inspired in:
+
+https://github.com/Thaiane
+https://github.com/BrunnerLivio
+
+If you want some inspiration, I suggest you to visit: https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools
+
+bio computing gif from https://www.statox.fr/posts/2020/11/ants/
