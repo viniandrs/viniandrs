@@ -25,14 +25,23 @@
 
 <table align='center'>
   <tr>
+    <td>
+      <img src="./images/ddpm.gif" height='200px'></img>
+    </td>
     <td align='center'>
       <img src="./images/humanoid_standup.gif" width='200px'></img>
     </td>
     <td>
-      <img src="./images/ant.gif" width='200px'></img>
+      <img src="./images/trails.gif" height='200px'></img>
     </td>
   </tr>
   <tr align='center'>
+    <td>
+      <strong>
+        Generative <br>
+        Models
+      </strong>
+    </td>
     <td>
       <strong>
         Reinforcement <br>
